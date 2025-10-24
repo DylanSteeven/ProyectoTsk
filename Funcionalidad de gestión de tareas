@@ -1,0 +1,6 @@
+feat: implementar funciones para crear, editar y eliminar tareas
+
+- Se añadió la función para crear nuevas tareas dinámicamente desde el formulario.
+- Se implementó la opción de editar tareas existentes.
+- Se agregó la funcionalidad para eliminar tareas completadas o no deseadas.
+- Se mejoró la interacción del usuario con mensajes visuales y estilos actualizados.
