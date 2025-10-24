@@ -1,0 +1,6 @@
+feat: agregar estructura base del proyecto Taski
+
+- Se creó el archivo index.html con la estructura principal de la aplicación.
+- Se añadió la hoja de estilos estilos.css con diseño básico.
+- Se incluyó el archivo script.js con la lógica inicial para agregar y mostrar tareas.
+- Se configuró la organización básica de carpetas (css/, js/, img/).
